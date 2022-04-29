@@ -38,14 +38,6 @@ h2 {border-bottom: 2px dotted #FFEBCD;
 font-family: "Lucida Console", "Courier New", monospace;
 }
 p {font-family: "Lucida Console", "Courier New", monospace;}
-.myDiv {
-position: fixed;
-bottom: 0;
-right: 0;
-width: 300px;
-border: 3px solid #21ad9f;
-background-color: #006980;
-}
 #contact {
 background-color: lightblue;
 color: black;
