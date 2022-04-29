@@ -29,10 +29,7 @@ h1 {border: 2px solid #FFEBCD;
 font-family: "Lucida Console", "Courier New", monospace;
 background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
 padding: 5px;}
-a {border: 2px solid #C71585;
-border-radius: 5px;
-padding: 5px;
-}
+
 a:hover, a:active {
 background-color:#5F9EA0;
 }
