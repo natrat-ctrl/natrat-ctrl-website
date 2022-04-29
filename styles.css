@@ -1,1 +1,16 @@
+aside {
+background-color: #FFEBCD;
+float: right;
+}
+header {
+background-color: #F5F5DC;
+}
+footer {
+background-color: #DCDCDC;
+}
+.mySkills {
+height: 200px;
+width: 200px;  
+border: 2px dotted;
+}
 
