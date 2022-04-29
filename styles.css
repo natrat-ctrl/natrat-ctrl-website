@@ -35,3 +35,10 @@ right: 0;
 top: 0;
 background-color: #008080;
 }
+#contact {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+
