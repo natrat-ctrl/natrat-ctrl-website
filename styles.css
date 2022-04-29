@@ -11,6 +11,12 @@ background-color: #DCDCDC;
 nav {
 background-color: #dbcaca;
 }
+.nav {
+  list-style-type: none;
+}
+.nav li {
+  display: inline-block;
+}
 .mySkills {
 height: 400px;
 width: 200px;  
