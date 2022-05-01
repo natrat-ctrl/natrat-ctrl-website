@@ -45,3 +45,9 @@ text-align: center;
 }
 ol{font-family: "Lucida Console", "Courier New", monospace;}
 ul{font-family: "Lucida Console", "Courier New", monospace;}
+#contact {
+float: left;
+font-family: "Lucida Console", "Courier New", monospace;
+}
+address {font-family: "Lucida Console", "Courier New", monospace;
+}
