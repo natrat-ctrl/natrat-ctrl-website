@@ -8,6 +8,7 @@ background-color: #F5F5DC;
 footer {
 background-color: #DCDCDC;
 font-family: "Lucida Console", "Courier New", monospace;
+position: static;
 float: left
 }
 nav {
