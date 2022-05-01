@@ -35,7 +35,6 @@ h1 {border: 2px solid #FFEBCD;
 font-family: "Lucida Console", "Courier New", monospace;
 background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
 padding: 5px;}
-
 a:hover, a:active {
 background-color:#5F9EA0;
 }
@@ -46,5 +45,5 @@ p {font-family: "Lucida Console", "Courier New", monospace;}
 ol{font-family: "Lucida Console", "Courier New", monospace;}
 ul{font-family: "Lucida Console", "Courier New", monospace;}
 address {font-family: "Lucida Console", "Courier New", monospace;
-text-align: left
+text-align: left;
 }
