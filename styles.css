@@ -10,9 +10,12 @@ background-color: #DCDCDC;
 font-family: "Lucida Console", "Courier New", monospace;
 position: static;
 float: left
+width: 800px;
+height: 50px;
 }
 nav {
 background-color: #dbcaca;
+width: 10px;
 }
 .nav {
   list-style-type: none;
