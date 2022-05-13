@@ -2,6 +2,7 @@ aside {
 background-color:#cfbc9f;
 float: right;
 margin: 5px;
+padding: 10px;
 }
 header {
 background-color: #F5F5DC;
@@ -30,6 +31,8 @@ background-color: #dbcaca;
 height: 400px;
 width: 200px;  
 border: 2px dotted;
+padding: 10px;
+margin: 10px;
 }
 h3 {font-family: "Lucida Console", "Courier New", monospace;
   padding: 10px;
