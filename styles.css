@@ -29,7 +29,7 @@ width: 200px;
 border: 2px dotted;
 }
 h3 {font-family: "Lucida Console", "Courier New", monospace;
-  padding: 5px;
+  padding: 10px;
 }
 h1 {border: 2px solid #FFEBCD;
 font-family: "Lucida Console", "Courier New", monospace;
@@ -45,3 +45,5 @@ p {font-family: "Lucida Console", "Courier New", monospace;}
 ol{font-family: "Lucida Console", "Courier New", monospace;}
 ul{font-family: "Lucida Console", "Courier New", monospace;}
 
+body {padding: 10 px;
+margin: 10px; }
