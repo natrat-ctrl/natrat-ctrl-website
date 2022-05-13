@@ -46,7 +46,7 @@ background-color:#5F9EA0;
 }
 h2 {border-bottom: 2px dotted #FFEBCD;
 font-family: "Lucida Console", "Courier New", monospace;
-}
+padding: 10px;}
 p {font-family: "Lucida Console", "Courier New", monospace;}
 ol{font-family: "Lucida Console", "Courier New", monospace;}
 ul{font-family: "Lucida Console", "Courier New", monospace;}
