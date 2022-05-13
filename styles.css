@@ -40,7 +40,7 @@ h3 {font-family: "Lucida Console", "Courier New", monospace;
 h1 {border: 2px solid #FFEBCD;
 font-family: "Lucida Console", "Courier New", monospace;
 background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
-padding: 5px;}
+padding: 10px;}
 a:hover, a:active {
 background-color:#5F9EA0;
 }
@@ -55,4 +55,4 @@ body {padding: 10px;
 margin: 10px; }
 section {padding: 10px;
 margin: 10px; }
-}
+
